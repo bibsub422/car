@@ -129,6 +129,7 @@ body {
     display: flex;
     justify-content: space-around;
     padding: 0px 0px 116px  0px;
+    flex-wrap:wrap;
 }
 
 .homepage {
